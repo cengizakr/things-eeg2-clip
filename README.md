@@ -5,7 +5,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cengizakr/things-eeg2-clip/blob/main/notebooks/things_eeg2_clip.ipynb)
 [![Checks](https://github.com/cengizakr/things-eeg2-clip/actions/workflows/checks.yml/badge.svg)](https://github.com/cengizakr/things-eeg2-clip/actions/workflows/checks.yml)
 
-**Author: [Cengiz Çakır](https://github.com/cengizakr)** · Python · PyTorch · EEG · CLIP · Computational neuroscience
+ Python · PyTorch · EEG · CLIP · Computational neuroscience
 
 Can EEG responses to viewed objects be mapped into a semantic space that supports recognition of **unseen object concepts**? This research notebook explores that question using subject 1 of THINGS-EEG2 and frozen CLIP text prototypes.
 
