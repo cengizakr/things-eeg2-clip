@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this experimental notebook, cite this repository and the original THINGS-EEG2 and CLIP papers listed in the README."
+title: "THINGS-EEG2 to CLIP: EEG concept decoding"
+type: software
+authors:
+  - given-names: "Cengiz"
+    family-names: "Çakır"
+repository-code: "https://github.com/cengizakr/things-eeg2-clip"
+url: "https://github.com/cengizakr/things-eeg2-clip"
+keywords:
+  - EEG
+  - computational neuroscience
+  - zero-shot learning
+  - CLIP
